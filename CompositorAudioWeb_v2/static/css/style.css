@@ -1,0 +1,4 @@
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; background:#e9f5ff; }
+.card { border: none; }
+.list-group-item { display:flex; align-items:center; justify-content:space-between; }
+small { color:#666; }
